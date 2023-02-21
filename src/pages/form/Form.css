@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(201, 249, 201);
+}
+
+.title-txt{
+    padding: 2rem;
+}
+
+.quest-pane{
+    margin-top: 3rem;
+    padding: 2rem;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.text-s{
+    font-style: oblique;
+    font-size: x-small;
+}

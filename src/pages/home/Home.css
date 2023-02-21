@@ -1,0 +1,31 @@
+.main{
+    background-color: rgb(90, 127, 90);
+    margin: 3rem;
+    padding-top: 20px;
+    padding: 2rem;
+    border-radius: 5px;
+}
+
+Link{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+Link:hover{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.logoo{
+   width: 50px;
+   margin-bottom: 1rem;
+}
+
+.admin-txt{
+    padding: 1rem;
+    font-weight: bold;
+}
+
+.text-2{
+    color: rgb(201, 249, 201);
+}
