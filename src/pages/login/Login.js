@@ -8,7 +8,7 @@ export default function Form() {
         <h6 className='title-txt'><span className='text-success'>Admin</span>Login</h6>
         <div className='row'>
             <div className='col'></div>
-            <div className='col-6 log-pane'><br/>                
+            <div className='col-8 log-pane'><br/>                
                 <form class="needs-validation" novalidate>
                     <div class="form-row">
                         <div class="col-md-12 mb-3">
